@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78c18aae-8aca-45c1-931c-02d7f1e2ad38" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/Backend/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frontend/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frontend/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frontend/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frontend/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frontend/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frontend/tailwind.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nautilus" beforeDir="false" afterPath="$PROJECT_DIR$/nautilus" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/nautilus/.cargo/config.toml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/nautilus/.github/CODEOWNERS" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/nautilus/.github/workflows/move.yml" beforeDir="false" />
@@ -113,7 +106,7 @@
       <workItem from="1745678038400" duration="6000" />
       <workItem from="1745714920743" duration="3043000" />
       <workItem from="1745725717147" duration="129000" />
-      <workItem from="1745725849198" duration="1894000" />
+      <workItem from="1745725849198" duration="2221000" />
     </task>
     <servers />
   </component>
