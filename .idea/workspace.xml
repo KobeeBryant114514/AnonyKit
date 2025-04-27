@@ -7,29 +7,7 @@
     <cargoProject FILE="$PROJECT_DIR$/nautilus/src/nautilus-server/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78c18aae-8aca-45c1-931c-02d7f1e2ad38" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nautilus" beforeDir="false" afterPath="$PROJECT_DIR$/nautilus" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nautilus/.cargo/config.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nautilus/.github/CODEOWNERS" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nautilus/.github/workflows/move.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nautilus/.github/workflows/rust.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nautilus/Containerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nautilus/Design.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nautilus/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nautilus/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nautilus/UsingNautilus.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nautilus/flows.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nautilus/move/app/Move.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nautilus/move/app/Move.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nautilus/move/app/sources/weather.move" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nautilus/move/enclave/Move.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nautilus/move/enclave/Move.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nautilus/move/enclave/sources/enclave.move" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nautilus/rust-toolchain" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nautilus/src/nautilus-server/allowed_endpoints.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/nautilus/src/nautilus-server/allowed_endpoints.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nautilus/src/nautilus-server/src/app.rs" beforeDir="false" afterPath="$PROJECT_DIR$/nautilus/src/nautilus-server/src/app.rs" afterDir="false" />
-    </list>
+    <list default="true" id="78c18aae-8aca-45c1-931c-02d7f1e2ad38" name="更改" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -111,7 +89,7 @@
       <workItem from="1745678038400" duration="6000" />
       <workItem from="1745714920743" duration="3043000" />
       <workItem from="1745725717147" duration="129000" />
-      <workItem from="1745725849198" duration="3164000" />
+      <workItem from="1745725849198" duration="3518000" />
     </task>
     <servers />
   </component>
